@@ -1,7 +1,5 @@
 # Hello, I'm Melanie Ngome, I write code and content! 👋
 
-![Header Image](Header-img.jpg)
-
 I'm on an exciting journey of learning and growth in the world of web development and technical writing. Here's a bit about me:
 
 ## About Me
