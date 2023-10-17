@@ -1,5 +1,7 @@
 # Hello, I'm Melanie Ngome, I write code and content! 👋
 
+![Header-img](https://github-production-user-asset-6210df.s3.amazonaws.com/101593463/275782514-9bbf3d90-ab4c-4d57-b1b8-9dee62218853.jpg)
+
 I'm on an exciting journey of learning and growth in the world of web development and technical writing. Here's a bit about me:
 
 ## About Me
