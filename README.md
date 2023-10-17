@@ -4,7 +4,7 @@ I'm on an exciting journey of learning and growth in the world of web developmen
 
 ## About Me
 
-I'm Melanie, a passionate learner currently focusing on frontend web development. I'm dedicated to creating web experiences that are not only visually appealing but also accessible to all. My interests go beyond coding; I'm keen to explore the realms of web accessibility, UX writing, and technical communication.
+I'm Melanie, a passionate learner currently focusing on frontend web development. I'm dedicated to creating web experiences that are not only visually appealing but also accessible to all. My interests go beyond coding; I'm keen to explore the world of web accessibility, UX writing, and technical communication.
 
 ## Skills
 
