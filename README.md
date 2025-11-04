@@ -10,7 +10,7 @@ I'm Melanie, a passionate learner currently focusing on frontend web development
 
 ## Skills
 
-- **HTML & CSS**: I have a strong foundation in creating responsive and user-friendly web interfaces.
+- **HTML, CSS & JavaScript**: I have a strong foundation in creating responsive and user-friendly web interfaces.
 - **Technical Writing**: Writing is my forte. I craft informative and engaging technical articles to share knowledge.
 - **Research**: I'm committed to digging deep to provide readers with accurate and up-to-date information.
 
